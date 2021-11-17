@@ -4,6 +4,8 @@
 <br>
 <h2 align="center"><img src="autoload/STRd.gif" ></h2>
 </pre>
+<h6 align="center"><a href="https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0?si=Zu5t6ed1QdCRjdkz3fLr8Q&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black"></a></h6>
+
 ## Current Projects
 <a href="https://github.com/SudipC3/github-explore"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/SudipC3/github-explore?color=%23003366&label=github-explore&logo=github&logoColor=black&style=for-the-badge"></a>
 <br>
