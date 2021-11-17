@@ -1,8 +1,8 @@
 # Hallo !
 <pre>
- Hi! It's R Sadhukhan.
+<h2> Hi! It's R Sadhukhan.</h2>
 <br>
-<img src="autoload/STRd.gif" >
+<h2 align="center"><img src="autoload/STRd.gif" ></h2>
 </pre>
 ## Current Projects
  + [Github-explore](https://github.com/SudipC3/github-explore)
