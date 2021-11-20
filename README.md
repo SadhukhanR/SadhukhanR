@@ -27,3 +27,6 @@
 <pre>
 Prodigal Son
 </pre>
+----------------------------------------
+<img src="https://github-readme-stats.vercel.app/api?username=SadhukhanR&theme=red-green">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadhukhanR&theme=blue">
