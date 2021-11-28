@@ -11,7 +11,7 @@
 <br>
 
 > ## Open Source Working Motto
-> Its Open Source, Means Developers Hard Work, Time, Day & Night, Not For Money, Just For Us And Our Old Earth, Its Not About You Rich Or Poor & Where You Came From ? You Always Do It Better.
+> Its Open Source, Means Developers Hard Work, Time, Day & Night, Not For Money, Just For Us And Our Old Earth, Its Not About You Rich Or Poor & Where You Came From ? You Can Always Do It Better.
 > ## Catchphrase
 > Prodigal Son
 ----------------------------------------
