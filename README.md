@@ -1,5 +1,5 @@
-<img src="./svg/valorant.svg" alt="" height="100px">
-<img src="./svg/raze-reyna.png" alt="" height="600px" align="right">
+<img src="./svg/valorant.svg">
+<img src="./svg/raze-reyna.png" alt="" align="right">
 <img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=60&width=500&height=100&color=808080&lines=hello+!;i'm+rsadhukhan" align="">
 <img src="./svg/projects.svg" alt="">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhukhanr&repo=papae&theme=material-palenight&hide_border=true" align="left"/>
