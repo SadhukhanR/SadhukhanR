@@ -1,7 +1,7 @@
 <h1 style="color:#D8BFD8;"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=40&width=100&height=100&color=808080&lines=hello+!;i'm+rsadhukhan"><h1>
 <img src="./svg/projects.svg" alt="">
 <br>
-<h3><a href="https://github.com/SudipC3/git" style="color: #808080;">git</a>  <a href="https://github.com/sadhukhanr/kex" style="color: #808080;">kex</a>  <a href="https://github.com/sadhukhanr/papae" style="color: #808080;">papae</a></h3>
+<h3> [ <a href="https://github.com/SudipC3/git" style="color: #808080;">git</a> , <a href="https://github.com/sadhukhanr/kex" style="color: #808080;">kex</a>, <a href="https://github.com/sadhukhanr/papae" style="color: #808080;">papae</a> ]</h3>
 <br>
 <img src="./svg/stats.svg" alt="">
 <br>
