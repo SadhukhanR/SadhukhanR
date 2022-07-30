@@ -2,15 +2,10 @@
 <br>
 <img src="./svg/projects.svg" alt="">
 <br>
-
------------------------------------------- 
-<h3><a href="https://github.com/SudipC3/git" style="color: #808080;">git</a></h3>
-<h3><a href="https://github.com/sadhukhanr/kex" style="color: #808080;">kex</a></h3>
-<h3><a href="https://github.com/sadhukhanr/papae" style="color: #808080;">papae</a></h3>
+<h3><a href="https://github.com/SudipC3/git" style="color: #808080;">git</a>  <a href="https://github.com/sadhukhanr/kex" style="color: #808080;">kex</a>  <a href="https://github.com/sadhukhanr/papae" style="color: #808080;">papae</a></h3>
 <br>
 <img src="./svg/stats.svg" alt="">
-
--------------------------------------
+<br>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sadhukhanr&theme=nightowl&hide_border=true" alt="">
 <img src="https://github-readme-stats.vercel.app/api?username=sadhukhanr&show_icons=true&theme=tokyonight&hide_border=true" alt="">
