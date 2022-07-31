@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/sadhukhanr/"><img src="./svg/valorant.v.svg"></a>  </p>
 <p align="center"><a href="https://github.com/sadhukhanr/" align="left"><img src="./svg/reyna.png"></a></p>
-<p align="center"><a href="https://github.com/sadhukhanr/"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=60&width=500&height=100&color=808080&lines=hello+!;i'm+rsadhukhan"></a> </p>
+<p align="center"><a href="https://github.com/sadhukhanr/"><img src="./svg/rsadhukhan.gif"></a> </p>
 <p align="center"><a href="https://github.com/sadhukhanr/"><img src="./svg/projects.svg"></a></p>
 <p align="center">
 <a href="https://github.com/sadhukhanr/papae"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhukhanr&repo=papae&theme=material-palenight&hide_border=true" width="100%" height="100px"></a>
